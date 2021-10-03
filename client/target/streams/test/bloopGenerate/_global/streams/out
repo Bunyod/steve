@@ -1,0 +1,4 @@
+[debug] [client-test] Classpath dependencies List()
+[debug] [client-test] Dependencies from configurations List(client)
+[debug] Bloop wrote the configuration of project 'client-test' to '/Users/bunyod.bobojonov/Workspace/stevedore/.bloop/client-test.json'
+[success] Generated .bloop/client-test.json
