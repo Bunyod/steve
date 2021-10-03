@@ -1,7 +1,7 @@
-target/
-.idea/
-*.DS_Store
+**/target/
+**/.DS_Store
 *.metals
+.idea/
 .bloop
 *.log
 *.class
