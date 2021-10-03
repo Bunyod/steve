@@ -17,3 +17,4 @@ enum Command {
 }
 
 case class Hash(value: Array[Byte])
+

@@ -1,9 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(2ec92d80-82f4-4bcf-b3ac-e9466df05afd), Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: server / Compile / compile, client / Compile / compile, Compile / compile[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: bloop.integrations.sbt.Offloader$$anon$1@34882d44, check cycles: false, forcegc: true[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/bunyod.bobojonov/Workspace/stevedore/client/target/scala-3.1.0-RC2/classes ...[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/bunyod.bobojonov/Workspace/stevedore/server/target/scala-3.1.0-RC2/classes ...[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed 2 Oct 2021, 18:59:19[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
-[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
-[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m
